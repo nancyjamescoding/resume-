@@ -16,6 +16,10 @@ I am a competent graduate IT professional, with knowledge in the domain of Netwo
 
 ## EXPERIENCE
 
+**Build For SDG Challenge - April 2020 - Current**
+* This is a six-week immersive program where selected developers will work in agile remote teams to innovate on projects relating to the SDGs. The program is being offered through a partnership between Andela and Facebook. Below is a link to a project that I have accomplished as part of this challenge.
+	* [https://github.com/nancyjamescoding/covid-19-challenge](https://github.com/nancyjamescoding/covid-19-challenge)
+
 **Kenya Power and Lighting Company (KPLC) - IT Officer Intern (Jun 2017 - Aug 2017)**
 
 *   Installed and configured Networks using Cisco Routers and Switches, this entailed - terminating network cables, troubleshooting hubs, routers, switches, troubleshooting network data points,, registration of PC to the network domain. 
