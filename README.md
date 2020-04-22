@@ -16,7 +16,7 @@ I am a competent graduate IT professional, with knowledge in the domain of Netwo
 
 ## EXPERIENCE
 
-**Build For SDG Challenge - April 2020 - Current**
+**Build For SDG Challenge - (April 2020 - Current)**
 * This is a six-week immersive program where selected developers will work in agile remote teams to innovate on projects relating to the SDGs. The program is being offered through a partnership between Andela and Facebook. Below is a link to a project that I have accomplished as part of this challenge.
 	* [https://github.com/nancyjamescoding/covid-19-challenge](https://github.com/nancyjamescoding/covid-19-challenge)
 
