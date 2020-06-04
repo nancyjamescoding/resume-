@@ -69,19 +69,16 @@ Fairtrade Africa
 
 0727489777
 
-[favouredthuku@gmail.com](mailto:favouredthuku@gmail.com)
+favouredthuku@gmail.com
 
-    
-
-**David Mwaura Kamau**
-
- Teacher
-
-Nyandarua High School
-
- 0728124463
-
-mwaura959@gmail.com
+  **Anne Okemwa**
+ 
+ Bank Officer(Cyberforensic Analyst)
+ 
+ 0705601363
+ 
+ anneokemwa@gmail.com
+ 
 
  **Antony Kibet Metto**
 
